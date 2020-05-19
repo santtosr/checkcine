@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/santtosr/Development/Mobile/primeiroapp/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml",
+            "outputFile": "/home/santtosr/Development/Mobile/checkcine/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml",
             "map": [
                 {
                     "source": "/home/santtosr/.gradle/caches/transforms-2/files-2.1/fecc98e05c7ccd4a0eedf7cff343a233/core-1.0.2/res/values-en-rIN/values-en-rIN.xml",

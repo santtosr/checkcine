@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/santtosr/Development/Mobile/primeiroapp/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-si/values-si.xml",
+            "outputFile": "/home/santtosr/Development/Mobile/checkcine/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-si/values-si.xml",
             "map": [
                 {
                     "source": "/home/santtosr/.gradle/caches/transforms-2/files-2.1/555883543df20868c4789db0257a9ad1/jetified-play-services-basement-16.1.0/res/values-si/values.xml",

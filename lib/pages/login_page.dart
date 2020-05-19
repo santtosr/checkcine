@@ -17,7 +17,7 @@ class _LoginPageState extends State<LoginPage> {
           ListView(
             children: <Widget>[
               SizedBox(
-                height: MediaQuery.of(context).size.height * 0.1,
+                height: MediaQuery.of(context).size.height * 0.05,
                 width: MediaQuery.of(context).size.width * 0.8,
               ),
               ResponsiveRow(
@@ -25,8 +25,8 @@ class _LoginPageState extends State<LoginPage> {
                 alignment: WrapAlignment.center,
                 children: <Widget>[
                   SizedBox(
-                    height: 300,
-                    width: 300,
+                    height: 350,
+                    width: 350,
                     child: Image.asset("assets/images/icon_logo.png"),
                   ),
                   Container(
@@ -62,7 +62,7 @@ class _LoginPageState extends State<LoginPage> {
                     child: RichText(
                       textAlign: TextAlign.center,
                       text: TextSpan(
-                        text: "Iniciar",
+                        text: "Entrar",
                         style: TextStyle(
                           fontSize: 30.0,
                           color: Colors.white,

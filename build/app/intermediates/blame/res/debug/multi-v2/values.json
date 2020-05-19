@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/santtosr/Development/Mobile/primeiroapp/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/santtosr/Development/Mobile/checkcine/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/home/santtosr/.gradle/caches/transforms-2/files-2.1/6d35bbbe327ef689c582d1173367f0ed/media-1.0.0/res/values/values.xml",
@@ -40,7 +40,7 @@
                     }
                 },
                 {
-                    "source": "/home/santtosr/Development/Mobile/primeiroapp/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/santtosr/Development/Mobile/checkcine/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

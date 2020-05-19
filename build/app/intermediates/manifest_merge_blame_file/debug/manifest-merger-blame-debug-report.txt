@@ -12,14 +12,14 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->/home/santtosr/Development/Mobile/primeiroapp/android/app/src/debug/AndroidManifest.xml:6:5-66
-14-->/home/santtosr/Development/Mobile/primeiroapp/android/app/src/debug/AndroidManifest.xml:6:22-64
+14-->/home/santtosr/Development/Mobile/checkcine/android/app/src/debug/AndroidManifest.xml:6:5-66
+14-->/home/santtosr/Development/Mobile/checkcine/android/app/src/debug/AndroidManifest.xml:6:22-64
 15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-15-->[:image_picker] /home/santtosr/Development/Mobile/primeiroapp/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-80
-15-->[:image_picker] /home/santtosr/Development/Mobile/primeiroapp/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-77
+15-->[:image_picker] /home/santtosr/Development/Mobile/checkcine/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-80
+15-->[:image_picker] /home/santtosr/Development/Mobile/checkcine/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-77
 16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
-16-->[:image_picker] /home/santtosr/Development/Mobile/primeiroapp/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-81
-16-->[:image_picker] /home/santtosr/Development/Mobile/primeiroapp/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-78
+16-->[:image_picker] /home/santtosr/Development/Mobile/checkcine/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-81
+16-->[:image_picker] /home/santtosr/Development/Mobile/checkcine/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-78
 17    <!-- <uses-sdk android:minSdkVersion="14"/> -->
 18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 18-->[com.google.firebase:firebase-storage:17.0.0] /home/santtosr/.gradle/caches/transforms-2/files-2.1/5b8551a46c47712fb769b0d490fe4432/jetified-firebase-storage-17.0.0/AndroidManifest.xml:26:5-79
@@ -32,39 +32,39 @@
 24         FlutterApplication and put your custom class here.
 25    -->
 26    <application
-26-->/home/santtosr/Development/Mobile/primeiroapp/android/app/src/main/AndroidManifest.xml:8:5-29:19
+26-->/home/santtosr/Development/Mobile/checkcine/android/app/src/main/AndroidManifest.xml:8:5-29:19
 27        android:name="io.flutter.app.FlutterApplication"
-27-->/home/santtosr/Development/Mobile/primeiroapp/android/app/src/main/AndroidManifest.xml:9:9-57
+27-->/home/santtosr/Development/Mobile/checkcine/android/app/src/main/AndroidManifest.xml:9:9-57
 28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 28-->[androidx.core:core:1.0.2] /home/santtosr/.gradle/caches/transforms-2/files-2.1/fecc98e05c7ccd4a0eedf7cff343a233/core-1.0.2/AndroidManifest.xml:22:18-86
 29        android:debuggable="true"
 30        android:icon="@mipmap/ic_launcher"
-30-->/home/santtosr/Development/Mobile/primeiroapp/android/app/src/main/AndroidManifest.xml:11:9-43
+30-->/home/santtosr/Development/Mobile/checkcine/android/app/src/main/AndroidManifest.xml:11:9-43
 31        android:label="primeiroapp" >
-31-->/home/santtosr/Development/Mobile/primeiroapp/android/app/src/main/AndroidManifest.xml:10:9-36
+31-->/home/santtosr/Development/Mobile/checkcine/android/app/src/main/AndroidManifest.xml:10:9-36
 32        <activity
-32-->/home/santtosr/Development/Mobile/primeiroapp/android/app/src/main/AndroidManifest.xml:12:9-23:20
+32-->/home/santtosr/Development/Mobile/checkcine/android/app/src/main/AndroidManifest.xml:12:9-23:20
 33            android:name="com.example.primeiroapp.MainActivity"
-33-->/home/santtosr/Development/Mobile/primeiroapp/android/app/src/main/AndroidManifest.xml:13:13-41
+33-->/home/santtosr/Development/Mobile/checkcine/android/app/src/main/AndroidManifest.xml:13:13-41
 34            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-34-->/home/santtosr/Development/Mobile/primeiroapp/android/app/src/main/AndroidManifest.xml:16:13-163
+34-->/home/santtosr/Development/Mobile/checkcine/android/app/src/main/AndroidManifest.xml:16:13-163
 35            android:hardwareAccelerated="true"
-35-->/home/santtosr/Development/Mobile/primeiroapp/android/app/src/main/AndroidManifest.xml:17:13-47
+35-->/home/santtosr/Development/Mobile/checkcine/android/app/src/main/AndroidManifest.xml:17:13-47
 36            android:launchMode="singleTop"
-36-->/home/santtosr/Development/Mobile/primeiroapp/android/app/src/main/AndroidManifest.xml:14:13-43
+36-->/home/santtosr/Development/Mobile/checkcine/android/app/src/main/AndroidManifest.xml:14:13-43
 37            android:theme="@style/LaunchTheme"
-37-->/home/santtosr/Development/Mobile/primeiroapp/android/app/src/main/AndroidManifest.xml:15:13-47
+37-->/home/santtosr/Development/Mobile/checkcine/android/app/src/main/AndroidManifest.xml:15:13-47
 38            android:windowSoftInputMode="adjustResize" >
-38-->/home/santtosr/Development/Mobile/primeiroapp/android/app/src/main/AndroidManifest.xml:18:13-55
+38-->/home/santtosr/Development/Mobile/checkcine/android/app/src/main/AndroidManifest.xml:18:13-55
 39            <intent-filter>
-39-->/home/santtosr/Development/Mobile/primeiroapp/android/app/src/main/AndroidManifest.xml:19:13-22:29
+39-->/home/santtosr/Development/Mobile/checkcine/android/app/src/main/AndroidManifest.xml:19:13-22:29
 40                <action android:name="android.intent.action.MAIN" />
-40-->/home/santtosr/Development/Mobile/primeiroapp/android/app/src/main/AndroidManifest.xml:20:17-68
-40-->/home/santtosr/Development/Mobile/primeiroapp/android/app/src/main/AndroidManifest.xml:20:25-66
+40-->/home/santtosr/Development/Mobile/checkcine/android/app/src/main/AndroidManifest.xml:20:17-68
+40-->/home/santtosr/Development/Mobile/checkcine/android/app/src/main/AndroidManifest.xml:20:25-66
 41
 42                <category android:name="android.intent.category.LAUNCHER" />
-42-->/home/santtosr/Development/Mobile/primeiroapp/android/app/src/main/AndroidManifest.xml:21:17-76
-42-->/home/santtosr/Development/Mobile/primeiroapp/android/app/src/main/AndroidManifest.xml:21:27-74
+42-->/home/santtosr/Development/Mobile/checkcine/android/app/src/main/AndroidManifest.xml:21:17-76
+42-->/home/santtosr/Development/Mobile/checkcine/android/app/src/main/AndroidManifest.xml:21:27-74
 43            </intent-filter>
 44        </activity>
 45        <!--
@@ -72,27 +72,27 @@
 47             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 48        -->
 49        <meta-data
-49-->/home/santtosr/Development/Mobile/primeiroapp/android/app/src/main/AndroidManifest.xml:26:9-28:33
+49-->/home/santtosr/Development/Mobile/checkcine/android/app/src/main/AndroidManifest.xml:26:9-28:33
 50            android:name="flutterEmbedding"
-50-->/home/santtosr/Development/Mobile/primeiroapp/android/app/src/main/AndroidManifest.xml:27:13-44
+50-->/home/santtosr/Development/Mobile/checkcine/android/app/src/main/AndroidManifest.xml:27:13-44
 51            android:value="2" />
-51-->/home/santtosr/Development/Mobile/primeiroapp/android/app/src/main/AndroidManifest.xml:28:13-30
+51-->/home/santtosr/Development/Mobile/checkcine/android/app/src/main/AndroidManifest.xml:28:13-30
 52
 53        <service android:name="com.google.firebase.components.ComponentDiscoveryService" >
-53-->[:firebase_storage] /home/santtosr/Development/Mobile/primeiroapp/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
-53-->[:firebase_storage] /home/santtosr/Development/Mobile/primeiroapp/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
+53-->[:firebase_storage] /home/santtosr/Development/Mobile/checkcine/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+53-->[:firebase_storage] /home/santtosr/Development/Mobile/checkcine/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
 54            <meta-data
-54-->[:firebase_storage] /home/santtosr/Development/Mobile/primeiroapp/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+54-->[:firebase_storage] /home/santtosr/Development/Mobile/checkcine/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
 55                android:name="com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar"
-55-->[:firebase_storage] /home/santtosr/Development/Mobile/primeiroapp/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-126
+55-->[:firebase_storage] /home/santtosr/Development/Mobile/checkcine/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-126
 56                android:value="com.google.firebase.components.ComponentRegistrar" />
-56-->[:firebase_storage] /home/santtosr/Development/Mobile/primeiroapp/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+56-->[:firebase_storage] /home/santtosr/Development/Mobile/checkcine/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 57            <meta-data
-57-->[:firebase_core] /home/santtosr/Development/Mobile/primeiroapp/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+57-->[:firebase_core] /home/santtosr/Development/Mobile/checkcine/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
 58                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar"
-58-->[:firebase_core] /home/santtosr/Development/Mobile/primeiroapp/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-123
+58-->[:firebase_core] /home/santtosr/Development/Mobile/checkcine/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-123
 59                android:value="com.google.firebase.components.ComponentRegistrar" />
-59-->[:firebase_core] /home/santtosr/Development/Mobile/primeiroapp/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+59-->[:firebase_core] /home/santtosr/Development/Mobile/checkcine/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 60            <meta-data
 60-->[com.google.firebase:firebase-storage:17.0.0] /home/santtosr/.gradle/caches/transforms-2/files-2.1/5b8551a46c47712fb769b0d490fe4432/jetified-firebase-storage-17.0.0/AndroidManifest.xml:31:13-33:85
 61                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
@@ -102,21 +102,21 @@
 63        </service>
 64
 65        <provider
-65-->[:image_picker] /home/santtosr/Development/Mobile/primeiroapp/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-19:20
+65-->[:image_picker] /home/santtosr/Development/Mobile/checkcine/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-19:20
 66            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
-66-->[:image_picker] /home/santtosr/Development/Mobile/primeiroapp/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-82
+66-->[:image_picker] /home/santtosr/Development/Mobile/checkcine/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-82
 67            android:authorities="com.example.primeiroapp.flutter.image_provider"
-67-->[:image_picker] /home/santtosr/Development/Mobile/primeiroapp/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-74
+67-->[:image_picker] /home/santtosr/Development/Mobile/checkcine/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-74
 68            android:exported="false"
-68-->[:image_picker] /home/santtosr/Development/Mobile/primeiroapp/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-37
+68-->[:image_picker] /home/santtosr/Development/Mobile/checkcine/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-37
 69            android:grantUriPermissions="true" >
-69-->[:image_picker] /home/santtosr/Development/Mobile/primeiroapp/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-47
+69-->[:image_picker] /home/santtosr/Development/Mobile/checkcine/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-47
 70            <meta-data
-70-->[:image_picker] /home/santtosr/Development/Mobile/primeiroapp/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-18:75
+70-->[:image_picker] /home/santtosr/Development/Mobile/checkcine/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-18:75
 71                android:name="android.support.FILE_PROVIDER_PATHS"
-71-->[:image_picker] /home/santtosr/Development/Mobile/primeiroapp/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-67
+71-->[:image_picker] /home/santtosr/Development/Mobile/checkcine/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-67
 72                android:resource="@xml/flutter_image_picker_file_paths" />
-72-->[:image_picker] /home/santtosr/Development/Mobile/primeiroapp/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-72
+72-->[:image_picker] /home/santtosr/Development/Mobile/checkcine/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-72
 73        </provider>
 74        <provider
 74-->[com.google.firebase:firebase-common:17.0.0] /home/santtosr/.gradle/caches/transforms-2/files-2.1/62e7c05ee138b8ad5755a8b7dbf1107d/jetified-firebase-common-17.0.0/AndroidManifest.xml:12:9-16:39

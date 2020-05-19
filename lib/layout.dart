@@ -30,8 +30,6 @@ class Layout {
               icon: Icon(Icons.arrow_back_ios),
               onPressed: () {
                 Navigator.pop(context);
-                // Navigator.popUntil(
-                //     context, ModalRoute.withName(AppRoutes.HOME));
               },
             )
           : null,
