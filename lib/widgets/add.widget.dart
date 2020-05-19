@@ -140,7 +140,7 @@ class _AddItemState extends State<AddItem> {
                 height: 20,
               ),
               CampForm(
-                heightSB: 20,
+                heightSB: 30,
                 widthSB: 375,
                 heightC: 250,
                 widthC: 375,

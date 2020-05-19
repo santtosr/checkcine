@@ -110,7 +110,7 @@ class _ReadItemState extends State<ReadItem> {
               height: 20,
             ),
             CampFormNoEdit(
-              heightSB: 20,
+              heightSB: 30,
               widthSB: 375,
               heightC: 250,
               widthC: 375,
