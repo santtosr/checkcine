@@ -10,8 +10,8 @@ class ShowDialogDelete {
     return showDialog(
       context: context,
       builder: (context) => AlertDialog(
-        title: Text('Excluir Favoritos'),
-        content: Text('Tem Certeza?'),
+        title: Text('Excluir'),
+        content: Text('Tem certeza que deseja excluir esse item da sua lista?'),
         actions: <Widget>[
           FlatButton(
             onPressed: () {

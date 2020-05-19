@@ -52,7 +52,7 @@ flutter:
   assets:
    - assets/images/icon_fb.png
    - assets/images/icon_resetpass.png
-   - assets/images/logo.png
+  #  - assets/images/logo.png
    - assets/images/icon_logo.png
 
 
