@@ -79,9 +79,9 @@ class _ReadItemState extends State<ReadItem> {
                   children: <Widget>[
                     CampFormNoEdit(
                       heightSB: 30,
-                      widthSB: 200,
+                      widthSB: 175,
                       heightC: 40,
-                      widthC: 200,
+                      widthC: 175,
                       textSB: 'Título:',
                       paddingB: 0,
                       paddingL: 10,
@@ -92,9 +92,9 @@ class _ReadItemState extends State<ReadItem> {
                     Divider(),
                     CampFormNoEdit(
                       heightSB: 30,
-                      widthSB: 200,
+                      widthSB: 175,
                       heightC: 40,
-                      widthC: 200,
+                      widthC: 175,
                       textSB: 'Categoria:',
                       paddingB: 10,
                       paddingL: 10,

@@ -109,9 +109,9 @@ class _AddItemState extends State<AddItem> {
                       ),
                       CampForm(
                         heightSB: 30,
-                        widthSB: 200,
+                        widthSB: 175,
                         heightC: 40,
-                        widthC: 200,
+                        widthC: 175,
                         textSB: 'Título:',
                         paddingB: 0,
                         paddingL: 10,
@@ -122,9 +122,9 @@ class _AddItemState extends State<AddItem> {
                       Divider(),
                       CampForm(
                         heightSB: 30,
-                        widthSB: 200,
+                        widthSB: 175,
                         heightC: 40,
-                        widthC: 200,
+                        widthC: 175,
                         textSB: 'Categoria:',
                         paddingB: 10,
                         paddingL: 10,
